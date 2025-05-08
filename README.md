@@ -55,13 +55,13 @@ A responsive, single-page marketing website for a fictional software resale star
 
 ## Deployment
 
-The website is deployed on Vercel and can be accessed at [softsell.vercel.app](https://softsell.vercel.app).
+The website is deployed on Vercel and can be accessed at [softsell.vercel.app](https://soft-sell-lime.vercel.app/).
 
 ## Local Development
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/softsell.git
+git clone https://github.com/Aditya13134/softsell.git
 
 # Navigate to the project directory
 cd softsell
